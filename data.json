@@ -1,7 +1,7 @@
 [
   {
     "title":"Термины",
-    "text":"<table border="0" cellpadding="0" cellspacing="0" style="width:623px">
+    "text":'<table border="0" cellpadding="0" cellspacing="0" style="width:623px">
 	<tbody>
 		<tr>
 			<td style="width:312px">
@@ -105,11 +105,11 @@
 		</tr>
 	</tbody>
 </table>
-"
+'
   },
   {
     "title":"Этапы получения Грин карты",
-    "text":"<p style="text-align: center;"><a name="_Toc72116453">Этапы получения Грин карты</a></p>
+    "text":'<p style="text-align: center;"><a name="_Toc72116453">Этапы получения Грин карты</a></p>
 
 <p>&nbsp;</p>
 
@@ -120,7 +120,7 @@
 <p style="margin-left:72pt">●&nbsp;&nbsp;&nbsp;&nbsp; Прохождение мед. осмотра</p>
 
 <p style="margin-left:72pt">●&nbsp;&nbsp;&nbsp;&nbsp; Собеседование</p>
-"
+'
   },
   {
     "title":"Подготовка к заполнению DS-260",
